@@ -1,4 +1,4 @@
-# PatientManagementSystem
+# Patient Management System
 
 This is a pseudo-database represented for use in a doctor's office to manage Patients' data.
 
