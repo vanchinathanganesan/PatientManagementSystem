@@ -1,0 +1,36 @@
+
+FirstName: Vanchinathan
+LastName: Ganesan
+Insurance Number: K52144235
+Age: 30
+Blood Group: B+
+
+
+FirstName: Ravi
+LastName: Raj
+Insurance Number: K574456
+Age: 5
+Blood Group: B+
+
+
+FirstName: Harry
+LastName: Potter
+Insurance Number: R7844523
+Age: 21
+Blood Group: O+
+
+
+
+FirstName: Alex
+LastName: Pena
+Insurance Number: K6222628
+Age: 42
+Blood Group: B+
+
+
+FirstName: Tina
+LastName: Rogers
+Insurance Number: K544542
+Age: 37
+Blood Group: AB+
+
